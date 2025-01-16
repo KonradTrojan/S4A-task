@@ -27,3 +27,5 @@ folderze, z którego wykonywana jest komenda.
 Jako argument można też podać ścieżkę względną do pliku z danymi wejściowymi np.
 
 - ``java -jar smart4aviation-1.0.3.jar input1.txt``
+
+Jako wynik w terminalu zostaną zgodnie ze standardowym wyjściem zwrócone wyniki operacji Q.
