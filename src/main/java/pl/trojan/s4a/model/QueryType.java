@@ -2,5 +2,5 @@ package pl.trojan.s4a.model;
 
 public enum QueryType {
 
-  P, C, A, Q;
+  P, C, A, Q
 }
